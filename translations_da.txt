@@ -4,22 +4,22 @@
 
 
 en: "Level:";
-da: "";
+da: "Level";
 
 en: "Choose a Dino:";
-da: "";
+da: "Vælg en dino";
 
 en: "Choose a Dino:";
-da: "";
+da: "Vælg en dino";
 
 en: "useless points";
-da: "";
+da: "Ubrugelige punkter";
 
 en: "A Dino is given a stat point for each level \nat level 120 will have 119 stat points (Dino LvL - 1) \nEach of these points are assigned to a random stat, with a change of 1/7 (14.28%) upgrading each stat \nThe movement speed of a wild Dino will not be increased, so that stat point will be useless \nThe Torpor stat is increased static with every level \nWorks only for wild Dinos, knocked it out and check their stats for good Base Stats";
 da: "";
 
 en: "Total tame time: ";
-da: "";
+da: "Total tæmningstid";
 
 en: "Food rate Multi x";
 da: "";
@@ -31,7 +31,7 @@ en: "K.o. - Body hits projectile (5sec rotation)";
 da: "";
 
 en: "Weapon DMG";
-da: "";
+da: "Våben skade";
 
 en: "% Melee DMG";
 da: "";
@@ -43,10 +43,10 @@ en: "Current Torpor";
 da: "";
 
 en: "Use";
-da: "";
+da: "Brug";
 
 en: "Buffer: ";
-da: "";
+da: "Buffer";
 
 en: "For Max: ";
 da: "";
@@ -55,7 +55,7 @@ en: "Narcotics:";
 da: "";
 
 en: "Target Food:";
-da: "";
+da: "Mad";
 
 en: "Starved in:";
 da: "";
@@ -64,7 +64,7 @@ en: "Current Food";
 da: "";
 
 en: "Max Food";
-da: "";
+da: "Max Mad";
 
 en: "feed Dino!!!";
 da: "";
@@ -73,10 +73,10 @@ en: "Berries instead Narcotic";
 da: "";
 
 en: "Favorite kibble";
-da: "";
+da: "Favorit kibble";
 
 en: "Produces kibble";
-da: "";
+da: "Producere kibble";
 
 en: "add/remove food (touch the food icon)";
 da: "";
